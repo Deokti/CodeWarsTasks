@@ -1,3 +1,1 @@
-import './ts/5.camelCase';
-
-
+import './ts/7.duplicate-count';
