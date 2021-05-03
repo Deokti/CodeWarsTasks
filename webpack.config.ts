@@ -16,7 +16,7 @@ const config: webpack.Configuration = {
   plugins: [
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
-      title: 'frontend typescript jest template'
+      title: 'Решения задач на CodeWars'
     })
   ],
   output: {

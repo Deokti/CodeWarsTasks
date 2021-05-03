@@ -1,1 +1,1 @@
-import './ts/7.duplicate-count';
+import './ts/7.tribonacci';
