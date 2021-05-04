@@ -1,1 +1,1 @@
-import './ts/7.tribonacci';
+import './ts/9.countBits';
